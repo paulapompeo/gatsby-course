@@ -3,7 +3,7 @@ date: 2020-09-23 05:54:23
 title: Two things are infinite
 description: And I'm not sure about the universe.
 category: Python
-background: "#3ed"
+background: "#e9c46a"
 image: "/assets/img/frida.jpg"
 ---
 
