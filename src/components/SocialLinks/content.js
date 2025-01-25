@@ -14,12 +14,8 @@ const links = [
         url: 'https://twitter.com/pompeopaula'
     },
     {
-        label: "Youtube",
-        url: 'https://www.youtube.com/channel/UCMKkxjjoPDY8KtoyZomA5qQ?view_as=subscriber'
-    },
-    {
-        label: "Unsplash",
-        url: 'https://github.com/paulapompeo'
+        label: "Linkedin",
+        url: 'https://www.linkedin.com/in/paulapompeo'
     },
 ]
 
